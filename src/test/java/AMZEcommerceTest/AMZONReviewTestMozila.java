@@ -30,6 +30,7 @@ public class AMZONReviewTestMozila {
         driver.get("https://www.amazon.in/");
         driver.manage().window().maximize();
         Thread.sleep(10000);
+        System.out.println("Lauched AMZ App in mozhila browser");
 
         //Xiaomi 108 cm (43 inches) A Pro 4K
         //Xiaomi 108 cm (43 inches) X Pro QLED Series Smart Google TV L43MA-SIN (Black)
