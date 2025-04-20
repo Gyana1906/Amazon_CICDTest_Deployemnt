@@ -87,9 +87,7 @@
 
     </dependencies>
 
-    <profiles>
-        <profile>
-            <id>AmazonReviewTest</id>
+    
             <build>
                 <pluginManagement>
                     <plugins>
@@ -101,6 +99,7 @@
                             <configuration>
                                 <suiteXmlFiles>
                                     <suiteXmlFile>testng.xml</suiteXmlFile>
+                                    <suiteXmlFile>testngMozhila.xml</suiteXmlFile>
                                 </suiteXmlFiles>
                             </configuration>
                         </plugin>
@@ -108,8 +107,6 @@
                     </plugins>
                 </pluginManagement>
             </build>
-        </profile>
 
-    </profiles>
 
 </project>

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: AMZEcommerceTest.AMZONReviewTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 122.8 s -- in AMZEcommerceTest.AMZONReviewTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 114.3 s -- in AMZEcommerceTest.AMZONReviewTest
