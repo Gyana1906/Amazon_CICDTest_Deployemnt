@@ -2,11 +2,10 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true"
-          name="C:/Users/gyana/IdeaProjects/CICDPipelineTest/src/test/java/AMZEcommerceTest/AMZONReviewTestMozila.java">
+          name="Amz Test">
         <classes>
-            <class name="AMZEcommerceTest.AMZONReviewTestMozila">
-
-            </class>
+            <class name="AMZEcommerceTest.AMZONReviewTest"> </class>
+            <class name="AMZEcommerceTest.AMZONReviewTestMozila"></class>
         </classes>
     </test>
 </suite>
