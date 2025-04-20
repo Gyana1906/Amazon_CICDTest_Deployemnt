@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-20T11:46:53 IST" name="All Test Suite" finished-at="2025-04-20T11:51:19 IST" duration-ms="266185">
+  <suite started-at="2025-04-20T16:24:23 IST" name="All Test Suite" finished-at="2025-04-20T16:28:25 IST" duration-ms="242106">
     <groups>
     </groups>
-    <test started-at="2025-04-20T11:46:53 IST" name="Amz Test" finished-at="2025-04-20T11:51:19 IST" duration-ms="266185">
+    <test started-at="2025-04-20T16:24:23 IST" name="Amz Test" finished-at="2025-04-20T16:28:25 IST" duration-ms="242106">
       <class name="AMZEcommerceTest.AMZONReviewTest">
-        <test-method signature="landonpage()[pri:0, instance:AMZEcommerceTest.AMZONReviewTest@e1de817]" started-at="2025-04-20T11:46:53 IST" name="landonpage" finished-at="2025-04-20T11:49:11 IST" duration-ms="137991" status="PASS">
+        <test-method signature="landonpage()[pri:0, instance:AMZEcommerceTest.AMZONReviewTest@e1de817]" started-at="2025-04-20T16:24:23 IST" name="landonpage" finished-at="2025-04-20T16:26:39 IST" duration-ms="135569" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landonpage -->
       </class> <!-- AMZEcommerceTest.AMZONReviewTest -->
       <class name="AMZEcommerceTest.AMZONReviewTestMozila">
-        <test-method signature="landonpageM()[pri:0, instance:AMZEcommerceTest.AMZONReviewTestMozila@52102734]" started-at="2025-04-20T11:49:11 IST" name="landonpageM" finished-at="2025-04-20T11:51:19 IST" duration-ms="128087" status="PASS">
+        <test-method signature="landonpageM()[pri:0, instance:AMZEcommerceTest.AMZONReviewTestMozila@52102734]" started-at="2025-04-20T16:26:39 IST" name="landonpageM" finished-at="2025-04-20T16:28:25 IST" duration-ms="106434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landonpageM -->
       </class> <!-- AMZEcommerceTest.AMZONReviewTestMozila -->
     </test> <!-- Amz Test -->
   </suite> <!-- All Test Suite -->
-  <suite started-at="2025-04-20T11:51:20 IST" name="All Test Suite (0)" finished-at="2025-04-20T11:53:03 IST" duration-ms="103869">
+  <suite started-at="2025-04-20T16:28:25 IST" name="All Test Suite (0)" finished-at="2025-04-20T16:30:19 IST" duration-ms="114087">
     <groups>
     </groups>
-    <test started-at="2025-04-20T11:51:20 IST" name="C:/Users/gyana/IdeaProjects/CICDPipelineTest/src/test/java/AMZEcommerceTest/AMZONReviewTestMozila.java" finished-at="2025-04-20T11:53:03 IST" duration-ms="103869">
+    <test started-at="2025-04-20T16:28:25 IST" name="C:/Users/gyana/IdeaProjects/CICDPipelineTest/src/test/java/AMZEcommerceTest/AMZONReviewTestMozila.java" finished-at="2025-04-20T16:30:19 IST" duration-ms="114087">
       <class name="AMZEcommerceTest.AMZONReviewTestMozila">
-        <test-method signature="landonpageM()[pri:0, instance:AMZEcommerceTest.AMZONReviewTestMozila@3e6ef8ad]" started-at="2025-04-20T11:51:20 IST" name="landonpageM" finished-at="2025-04-20T11:53:03 IST" duration-ms="103867" status="PASS">
+        <test-method signature="landonpageM()[pri:0, instance:AMZEcommerceTest.AMZONReviewTestMozila@3e6ef8ad]" started-at="2025-04-20T16:28:25 IST" name="landonpageM" finished-at="2025-04-20T16:30:19 IST" duration-ms="114085" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landonpageM -->
